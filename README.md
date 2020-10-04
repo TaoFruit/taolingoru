@@ -38,13 +38,24 @@ Languages/Technologies used in the project:
     $ git clone {your_forked_repo_url }
     $ cd {folder_name}
     ```
+    **Note: Current branch should be gh-pages. To check the current branch type following in git bash**
+    
+    ```sh
+    $ git branch
+    ```
+    
+    <b>To change the branch to gh-pages.</b>
+
+    ```sh
+    $ git checkout gh-pages
+    ```
 3. If using <b>VS Code</b> project can be opened directly using command line:
     ```sh
     $ code .
     ```
    Else open the project in your code editor.
 
-**Note: Always make a new branch before making changes.**
+  **Note: Always make a new branch before making changes.**
 
 
 ### To see your changes locally when you make changes:
