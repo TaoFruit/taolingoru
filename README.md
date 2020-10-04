@@ -1,4 +1,4 @@
-# Tao Dreams
+# Taolingo.ru
 
 Wander, explore, and discover the possibilities that resonate with the story you want to tell in your next chapter.
 
